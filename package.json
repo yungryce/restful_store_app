@@ -1,0 +1,19 @@
+{
+  "name": "restful_store_app",
+  "version": "1.0.0",
+  "description": "Building a restful api store app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yungryce/restful_store_app.git"
+  },
+  "author": "Chigbu Joshua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yungryce/restful_store_app/issues"
+  },
+  "homepage": "https://github.com/yungryce/restful_store_app#readme"
+}
